@@ -1,8 +1,6 @@
 
 ## tryGit
 
-https://try.github.io <br>
-
 ## Useful Resources:
 
 Download Git: https://git-scm.com <br>
