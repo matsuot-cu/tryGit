@@ -1,7 +1,7 @@
 
 ## tryGit
 
-https://try.github.io <br>
+Online Tutorial: https://try.github.io <br>
 
 ## Useful Resources:
 
